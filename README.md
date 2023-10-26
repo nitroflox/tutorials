@@ -1,3 +1,3 @@
-# games.nitroflox.com/tutorials/
+# tutorials
 
-Files for tutorials on personal website.
+Files for tutorials on https://games.nitroflox.com/tutorials/
